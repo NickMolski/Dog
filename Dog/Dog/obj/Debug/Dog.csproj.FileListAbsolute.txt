@@ -1,0 +1,7 @@
+C:\Users\Neeqo\AppData\Local\Temporary Projects\Dog\obj\Debug\Dog.csprojAssemblyReference.cache
+C:\Users\Neeqo\AppData\Local\Temporary Projects\Dog\obj\Debug\Dog.csproj.CoreCompileInputs.cache
+C:\Users\Neeqo\AppData\Local\Temporary Projects\Dog\bin\Debug\Dog.exe.config
+C:\Users\Neeqo\AppData\Local\Temporary Projects\Dog\bin\Debug\Dog.exe
+C:\Users\Neeqo\AppData\Local\Temporary Projects\Dog\bin\Debug\Dog.pdb
+C:\Users\Neeqo\AppData\Local\Temporary Projects\Dog\obj\Debug\Dog.exe
+C:\Users\Neeqo\AppData\Local\Temporary Projects\Dog\obj\Debug\Dog.pdb
